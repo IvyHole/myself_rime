@@ -1,0 +1,199 @@
+---
+name: self_others
+version: "1"
+sort: by_weight
+...
+
+阿卡玛级米加粒子炮	a ka ma ji mi jia li zi pao	1
+爱尔兰级米加粒子炮	ai er lan ji mi jia li zi pao	1
+巴尔干炮	ba er gan pao	1
+白色基地	bai se ji di	1
+半光泽漆	ban guang ze qi	1
+笔刀	bi dao	1
+笔锯	bi ju	1
+笔涂	bi tu	1
+标准驾驶舱	biao zhun jia shi cang	1
+薄刃钳	bo ren qian	1
+补土	bu tu	1
+长距离炮击型	chang ju li pao ji xing	1
+赤色彗星	chi se hui xing	1
+出力	chu li	1
+出力模式	chu li mo shi	1
+传导液	chuan dao ye	1
+粗目打磨膏	cu mu da mo gao	1
+锉刀	cuo dao	1
+弹痕	dan hen	1
+单孔	dan kong	1
+单眼	dan yan	1
+导管	dao guan	1
+德军灰	de jun hui	1
+电镀色	dian du se	1
+多哥斯基亚级战舰	duo ge si ji ya ji zhan jian	1
+珐琅漆	fa lang qi	1
+飞马级战舰	fei ma ji zhan jian	1
+分模线	fen mo xian	1
+盖亚	gai ya	1
+钢模	gang mo	1
+高达	gao da	1
+高达勾线笔	gao da gou xian bi	1
+高达马克笔	gao da ma ke bi	1
+高机动型	gao ji dong xing	1
+勾线铅笔	gou xian qian bi	1
+光束步枪	guang shu bu qiang	1
+光束剑	guang shu jian	1
+光束军刀	guang shu jun dao	1
+光泽漆	guang ze qi	1
+海军蓝	hai jun lan	1
+核弹头	he dan tou	1
+核心战机	he xin zhan ji	1
+鹤嘴镊	he zui nie	1
+火箭筒	huo jian tong	1
+火神炮	huo shen pao	1
+基础白	ji chu bai	1
+基础黑	ji chu hei	1
+基础红	ji chu hong	1
+基础黄	ji chu huang	1
+基础蓝	ji chu lan	1
+基础绿	ji chu lv	1
+吉恩公国	ji en gong guo	1
+吉恩公国军	ji en gong guo jun	1
+吉姆	ji mu	1
+机枪	ji qiang	1
+驾驶舱	jia shi cang	1
+尖头镊	jian tou nie	1
+胶版	jiao ban	1
+胶棒	jiao bang	1
+胶贴	jiao tie	1
+接近战型	jie jin zhan xing	1
+金牌剪	jin pai jian	1
+金属色	jin shu se	1
+精神力骨架	jing shen li gu jia	1
+旧化	jiu hua	1
+旧化粉末	jiu hua fen mo	1
+郡仕	jun shi	1
+刻线	ke xian	1
+刻线刀	ke xian dao	1
+刻线针	ke xian zhen	1
+扩散式米加粒子炮	kuo san shi mi jia li zi pao	1
+力场	li chang	1
+量产型	liang chan xing	1
+亮光铝色	liang guang lv se	1
+亮银	liang yin	1
+流道	liu dao	1
+流缝胶	liu feng jiao	1
+麦哲伦级战舰	mai zhe lun ji zhan jian	1
+米加粒子炮	mi jia li zi pao	1
+米诺夫斯基粒子	mi nuo fu si ji li zi	1
+米诺夫斯基粒子悬浮系统	mi nuo fu si ji li zi xuan fu xi tong	1
+面相笔	mian xiang bi	1
+面相刀	mian xiang dao	1
+模魂志	mo hun zhi	1
+牛犊式机枪	niu du shi ji qiang	1
+炮击型	pao ji xing	1
+喷笔	pen bi	1
+枪铁色	qiang tie se	1
+球形驾驶舱	qiu xing jia shi cang	1
+全周天人机一体驾驶舱	quan zhou tian ren ji yi ti jia shi cang	1
+萨拉米斯级战舰	sa la mi si ji zhan jian	1
+砂纸	sha zhi	1
+神之手剪钳	shen zhi shou jian qian	1
+蚀刻片	shi ke pian	1
+仕上目打磨膏	shi shang mu da mo gao	1
+试作型	shi zuo xing	1
+水口	shui kou	1
+水贴	shui tie	1
+水性漆	shui xing qi	1
+田宫	tian gong	1
+田宫喷罐	tian gong pen guan	1
+天线	tian xian	1
+调色棒	tiao se bang	1
+调色皿	tiao se min	1
+推进器	tui jin qi	1
+万代	wan dai	1
+伪电镀色	wei dian du se	1
+五爽补土法	wu shuang bu tu fa	1
+细目打磨膏	xi mu da mo gao	1
+线性座椅	xian xing zuo yi	1
+消光漆	xiao guang qi	1
+星光金	xing guang jin	1
+星光铁	xing guang tie	1
+星光银	xing guang yin	1
+牙膏补土	ya gao bu tu	1
+液压管	ye ya guan	1
+一体成型	yi ti cheng xing	1
+一体成型骨架	yi ti cheng xing gu jia	1
+荧光粉红	ying guang fen hong	1
+油性漆	you xing qi	1
+造型	zao xing	1
+扎古	zha gu	1
+扎古火箭筒	zha gu huo jian tong	1
+扎古机枪	zha gu ji qiang	1
+战舰主炮级	zhan jian zhu pao ji	1
+战损	zhan sun	1
+殖民卫星	zhi min wei xing	1
+制御式喷口	zhi yu shi pen kou	1
+中距离支援型	zhong ju li zhi yuan xing	1
+主摄像头	zhu she xiang tou	1
+转印贴	zhuan yin tie	1
+并发性	bing fa xing	1
+并行通信	bing xing tong xin	1
+触摸屏	chu mo ping	1
+传感器	chuan gan qi	1
+串行通信	chuan xing tong xin	1
+代码优化	dai ma you hua	1
+单片机	dan pian ji	1
+低功耗	di gong hao	1
+电平	dian ping	1
+电源管理	dian yuan guan li	1
+定时器	ding shi qi	1
+仿真器	fang zhen qi	1
+封装	feng zhuang	1
+公司	gong si	1
+固件	gu jian	1
+集成电路	ji cheng dian lu	1
+集成开发环境	ji cheng kai fa huan jing	1
+寄存器	ji cun qi	1
+机器学习	ji qi xue xi	1
+计数器	ji shu qi	1
+加密	jia mi	1
+键盘	jian pan	1
+交叉编译	jiao cha bian yi	1
+解码器	jie ma qi	1
+解密	jie mi	1
+晶振	jing zhen	1
+开关量	kai guan liang	1
+看门狗	kan men gou	1
+蓝牙	lan ya	1
+模拟量	mo ni liang	1
+内存管理	nei cun guan li	1
+嵌入式	qian ru shi	1
+嵌入式安全	qian ru shi an quan	1
+嵌入式操作系统	qian ru shi cao zuo xi tong	1
+嵌入式开发	qian ru shi kai fa	1
+嵌入式系统	qian ru shi xi tong	1
+驱动程序	qu dong cheng xu	1
+人工智能	ren gong zhi neng	1
+任务调度	ren wu diao du	1
+认证	ren zheng	1
+软件加密	ruan jian jia mi	1
+事件处理	shi jian chu li	1
+视频处理	shi pin chu li	1
+实时性	shi shi xing	1
+时钟	shi zhong	1
+授权	shou quan	1
+数字签名	shu zi qian ming	1
+调试器	tiao shi qi	1
+通信协议	tong xin xie yi	1
+图像处理	tu xiang chu li	1
+网络接口	wang luo jie kou	1
+微控制器	wei kong zhi qi	1
+物联网	wu lian wang	1
+无线通信	wu xian tong xin	1
+信号处理	xin hao chu li	1
+芯片型号	xin pian xing hao	1
+音频处理	yin pin chu li	1
+硬件抽象层	ying jian chou xiang ceng	1
+硬件加密	ying jian jia mi	1
+执行器	zhi xing qi	1
+中断	zhong duan	1
+资源分配	zi yuan fen pei	1
